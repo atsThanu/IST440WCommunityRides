@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.607" height="35.414" viewBox="0 0 24.607 35.414">
+  <g id="Right_Arrow_Icon" data-name="Right Arrow Icon" transform="translate(23.996 35.414) rotate(-179)">
+    <rect id="bg" width="24" height="35" fill="none"/>
+    <g id="ico" transform="translate(5 10.716)">
+      <path id="union" d="M6.241,13.29.362,7.411A.751.751,0,0,1,.1,6.388a.758.758,0,0,1,.2-.237L6.241.22A.75.75,0,0,1,7.3,1.281L2.563,6.019H15.251a.75.75,0,0,1,0,1.5H2.591L7.3,12.23a.75.75,0,1,1-1.061,1.06Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

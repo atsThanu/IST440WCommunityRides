@@ -1,0 +1,5 @@
+<svg id="CreditCard" xmlns="http://www.w3.org/2000/svg" width="36" height="23" viewBox="0 0 36 23">
+  <rect id="Rectangle_132" data-name="Rectangle 132" width="36" height="23" rx="2" fill="#cdd4d9"/>
+  <path id="Rectangle_155" data-name="Rectangle 155" d="M0,0H36a0,0,0,0,1,0,0V3a2,2,0,0,1-2,2H2A2,2,0,0,1,0,3V0A0,0,0,0,1,0,0Z" transform="translate(0 18)" fill="#6d7177"/>
+  <path id="Rectangle_156" data-name="Rectangle 156" d="M2,0H34a2,2,0,0,1,2,2V5a0,0,0,0,1,0,0H0A0,0,0,0,1,0,5V2A2,2,0,0,1,2,0Z" fill="#6d7177"/>
+</svg>

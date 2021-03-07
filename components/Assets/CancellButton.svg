@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="88" viewBox="0 0 92 88">
+  <defs>
+    <filter id="bg" x="0" y="0" width="92" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="12" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-color="#455b63" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_29_20" data-name="Component 29 – 20" transform="translate(24 10)">
+    <g transform="matrix(1, 0, 0, 1, -24, -10)" filter="url(#bg)">
+      <path id="bg-2" data-name="bg" d="M20,0h4a20,20,0,0,1,0,40H20A20,20,0,0,1,20,0Z" transform="translate(24 12)" fill="rgba(255,255,255,0.85)"/>
+    </g>
+    <g id="icon-arrow-left">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="44" height="44" fill="#fff" opacity="0"/>
+      <g id="icon-close">
+        <rect id="Rectangle_21" data-name="Rectangle 21" width="44" height="44" fill="#6ab1ff" opacity="0"/>
+        <path id="Icon_ionic-ios-close" data-name="Icon ionic-ios-close" d="M19.944,18.289l5-5a1.172,1.172,0,0,0-1.657-1.657l-5,5-5-5a1.172,1.172,0,1,0-1.657,1.657l5,5-5,5a1.172,1.172,0,1,0,1.657,1.657l5-5,5,5a1.172,1.172,0,1,0,1.657-1.657Z" transform="translate(3.715 3.711)" fill="#6ab1ff"/>
+      </g>
+    </g>
+  </g>
+</svg>

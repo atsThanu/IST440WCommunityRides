@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="187.973" height="82.453" viewBox="0 0 187.973 82.453">
+  <g id="Logo_" data-name="Logo " transform="translate(-312.837 -319.138)">
+    <g id="Shape" transform="translate(312.837 319.138)">
+      <path id="Path_11556" data-name="Path 11556" d="M160.062,273.6l-.462-9.643s25.465-22.3,70.784-13.493c23.06,4.5,52.07,9.334,77.844-2.064,0,0-22.166,15.5-62.337,9.15-14.767-2.341-50.714-11.522-85.273,6.747Z" transform="translate(-159.6 -229.538)" fill="#0e0d0d"/>
+      <path id="Path_11557" data-name="Path 11557" d="M522.592,246.589s7.8-12.073-1.378-27.554c0,0-18.825,7.882-47.365-1.439-15.665-5.1-36.91-11.6-68.61-7.319-10.219,1.376-17.951,2.69-36.439,6.787,0,0,43.5-17.264,79.5-10.509,28.708,5.348,45.617,17.546,73.955,9.2C522.323,215.75,533.45,231.388,522.592,246.589Z" transform="translate(-339.373 -204.987)" fill="#0e0d0d"/>
+    </g>
+    <g id="Community" transform="translate(344.192 352.592)">
+      <text id="Community-2" data-name="Community" transform="translate(0 24)" fill="#fff" font-size="23" font-family="Roboto-BlackItalic, Roboto" font-weight="800" font-style="italic"><tspan x="0" y="0">Community</tspan></text>
+    </g>
+    <g id="Rides_" data-name="Rides " transform="translate(360.192 382.592)">
+      <text id="R_I_d_e_s" data-name="R  I  d  e  s" transform="translate(0 16)" fill="#fff" font-size="16" font-family="Lato-Bold, Lato" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="0" xml:space="preserve">R  I  D  E  S</tspan></text>
+    </g>
+  </g>
+</svg>
