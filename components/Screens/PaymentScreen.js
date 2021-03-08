@@ -1,5 +1,5 @@
 import * as React from 'react';
-import {styles} from 'IST440WCommunityRides/components/styles/stylesSheet.js'
+import {styles} from 'IST440WCommunityRides/components/styles/stylesSheet'
 import { enableScreens } from 'react-native-screens';
 import {
   Text,

@@ -1,5 +1,5 @@
 import React , { useState } from 'react';
-import {styles} from 'IST440WCommunityRides/components/styles/stylesSheet.js'
+import {styles} from 'IST440WCommunityRides/components/styles/stylesSheet'
 import { useNavigation } from '@react-navigation/native'
 import CheckBox from '@react-native-community/checkbox';
 
@@ -49,7 +49,7 @@ const SignUp = ({navigation}) => {
             style={styles.checkbox}
             tintColors={{ true: '#FFFFFF', false: '#FFFFFF' }}
           />
-          <Text style={styles.checkboxLabel}>
+          <Text style={styles.label}>
             I agree to the Terms of Services and Privacy Policy
           </Text>
         </View>

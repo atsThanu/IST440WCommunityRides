@@ -103,30 +103,10 @@ checkbox: {
   marginLeft: 10,
 },
 
-checkboxLabel: {
+label: {
   fontFamily: "Segoe UI",
   color: '#FFFFFF',
   marginLeft: 10,
-},
-
-accountScreenContainer: {
-  flex: 1,
-  //alignItems: 'flex-start',
-},
-
-accountTopContainer: {
-  flexDirection: 'column',
-  justifyContent: 'space-around',
-
-},
-
-accountMiddleContainer: {
-
-},
-
-
-accountBottomContainer: {
-
 },
 
 })

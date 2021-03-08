@@ -1,21 +1,16 @@
 import * as React from 'react';
-import {styles} from 'IST440WCommunityRides/components/styles/stylesSheet.js'
+import {styles} from 'IST440WCommunityRides/components/styles/stylesSheet'
 
 
 import {
     View,
     Text,
-    Button,
-    TouchableOpacity,
   } from 'react-native'
 
-const Stack = createStackNavigator();
-
-const HomeMenu = ({navigation}) => {
+const Home = ({navigation}) => {
     return(
         <View>
           <Text>
-          AAAAAAAAAAAAAA
           </Text>
         </View>
     )
